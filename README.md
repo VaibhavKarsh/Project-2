@@ -29,10 +29,3 @@ Trained a Gaussian Naive Bayes model and reported accuracy and confusion matrix.
 
 Random Forest
 Trained a Random Forest Classifier with 100 trees and evaluated its performance.
-
-**5. Artificial Neural Network (ANN)**
-Built a Sequential ANN model with two hidden layers (each with 7 units) and a sigmoid output layer.
-Compiled the model with the Adam optimizer and binary crossentropy loss function.
-Trained the ANN for 30 epochs.
-Evaluated the ANN on the test set, reporting test accuracy.
-Made predictions with the ANN, converted probabilities to binary classes, and displayed accuracy and confusion matrix.
